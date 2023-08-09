@@ -1,0 +1,107 @@
+2023-01-19 19:35:19|   0.0|  0.0|INFORM|Current FME version: FME 2022.1.3.0 (20220928 - Build 22630 - WIN64)
+2023-01-19 19:35:19|   0.0|  0.0|INFORM|FME_HOME is 'C:\Program Files\FME\'
+2023-01-19 19:35:19|   0.0|  0.0|INFORM|FME Desktop ESRI Edition (floating)
+2023-01-19 19:35:19|   0.0|  0.0|INFORM|Permanent License.
+2023-01-19 19:35:19|   0.0|  0.0|INFORM|Machine host name is: PASS-CDW231
+2023-01-19 19:35:19|   0.0|  0.0|INFORM|OS Locale Name     : en_US
+2023-01-19 19:35:19|   0.0|  0.0|INFORM|OS Locale Encoding : windows-1252
+2023-01-19 19:35:19|   0.0|  0.0|INFORM|Process Encoding   : windows-1252
+2023-01-19 19:35:19|   0.0|  0.0|INFORM|FME API version: '4.0 20220615'
+2023-01-19 19:35:19|   0.0|  0.0|INFORM|FME Configuration: FME_BASE is 'no'
+2023-01-19 19:35:19|   0.0|  0.0|INFORM|FME Configuration: FME_MF_DIR is 'C:\Users\fgodinho\Desktop\fme\fme_workflows/'
+2023-01-19 19:35:19|   0.0|  0.0|INFORM|FME Configuration: FME_MF_NAME is 'count_unique_plates.fmw'
+2023-01-19 19:35:19|   0.0|  0.0|INFORM|FME Configuration: FME_PRODUCT_NAME is 'FME(R) 2022.1.3.0'
+2023-01-19 19:35:19|   0.0|  0.0|INFORM|Operating System: Microsoft Windows 10 64-bit  (Build 16299)
+2023-01-19 19:35:19|   0.0|  0.0|INFORM|FME Platform: WIN64
+2023-01-19 19:35:19|   0.0|  0.0|INFORM|System Status: 38.75 GB of disk space available in the FME temporary folder (C:\Users\fgodinho\AppData\Local\Temp\wbrun_1674183052576_13800\fmetmp_14)
+2023-01-19 19:35:19|   0.0|  0.0|INFORM|System Status: 15.92 GB of physical memory available
+2023-01-19 19:35:19|   0.0|  0.0|INFORM|System Status: 63.68 GB of virtual memory available
+2023-01-19 19:35:19|   0.0|  0.0|INFORM|START - ProcessID: 16540, peak process memory usage: 49312 kB, current process memory usage: 49312 kB
+2023-01-19 19:35:19|   0.0|  0.0|INFORM|FME Configuration: Command line arguments are `C:\Program Files\FME\fme.exe' `C:/Users/fgodinho/Desktop/fme/fme_workflows\wb-xlate-1674185716140_13800' `LOG_STANDARDOUT' `YES' `LOG_TIMINGS' `YES' `LogCountServerName' `65230' `LOG_STANDARDOUT' `No' `WORKBENCH_LOG_SERVER' `65199'
+2023-01-19 19:35:19|   0.0|  0.0|INFORM|FME Configuration: Connection Storage: 'C:\Users\fgodinho\AppData\Roaming\Safe Software\FME\'
+2023-01-19 19:35:19|   0.0|  0.0|INFORM|Shared folders for formats are : C:\Program Files\FME\datasources;C:\Users\fgodinho\Documents\FME\Formats
+2023-01-19 19:35:19|   0.0|  0.0|INFORM|Shared folders for transformers are : C:\Users\fgodinho\AppData\Roaming\Safe Software\FME\Packages\22630-win64\transformers;C:\Program Files\FME\transformers
+2023-01-19 19:35:19|   0.0|  0.0|INFORM|Shared folders for coordinate systems are : C:\Users\fgodinho\Documents\FME\CoordinateSystems
+2023-01-19 19:35:19|   0.0|  0.0|INFORM|Shared folders for coordinate system exceptions are : C:\Users\fgodinho\Documents\FME\CoordinateSystemExceptions
+2023-01-19 19:35:19|   0.0|  0.0|INFORM|Shared folders for coordinate system grid overrides are : C:\Users\fgodinho\Documents\FME\CoordinateSystemGridOverrides
+2023-01-19 19:35:19|   0.0|  0.0|INFORM|Shared folders for CS-MAP transformation exceptions are : C:\Users\fgodinho\Documents\FME\CsmapTransformationExceptions
+2023-01-19 19:35:19|   0.0|  0.0|INFORM|Shared folders for transformer categories are : C:\Users\fgodinho\Documents\FME\TransformerCategories
+2023-01-19 19:35:19|   0.0|  0.0|INFORM|FME Configuration: Reader Keyword is `MULTI_READER'
+2023-01-19 19:35:19|   0.0|  0.0|INFORM|FME Configuration: Writer Keyword is `MULTI_WRITER'
+2023-01-19 19:35:19|   0.0|  0.0|INFORM|FME Configuration: Writer Group Definition Keyword is `MULTI_WRITER_DEF'
+2023-01-19 19:35:19|   0.0|  0.0|INFORM|FME Configuration: Reader type is `MULTI_READER'
+2023-01-19 19:35:19|   0.0|  0.0|INFORM|FME Configuration: Writer type is `MULTI_WRITER'
+2023-01-19 19:35:19|   0.0|  0.0|INFORM|FME Configuration: No destination coordinate system set
+2023-01-19 19:35:19|   0.0|  0.0|INFORM|FME Configuration: Current working folder is `C:\Users\fgodinho\Desktop\fme\fme_workflows'
+2023-01-19 19:35:19|   0.0|  0.0|INFORM|FME Configuration: Temporary folder is `C:\Users\fgodinho\AppData\Local\Temp\wbrun_1674183052576_13800\fmetmp_14', set from environment variable `FME_TEMP'
+2023-01-19 19:35:19|   0.0|  0.0|INFORM|FME Configuration: Cache folder is 'C:\Users\fgodinho\AppData\Local\Temp'
+2023-01-19 19:35:19|   0.0|  0.0|INFORM|FME Configuration: FME_HOME is `C:\Program Files\FME\'
+2023-01-19 19:35:19|   0.1|  0.1|INFORM|FME Configuration: Start freeing memory when the process exceeds 47.76 GB
+2023-01-19 19:35:19|   0.1|  0.0|INFORM|FME Configuration: Stop freeing memory when the process is below 35.82 GB
+2023-01-19 19:35:19|   0.1|  0.0|INFORM|Creating writer for format: 
+2023-01-19 19:35:19|   0.1|  0.0|INFORM|Creating reader for format: 
+2023-01-19 19:35:19|   0.1|  0.0|INFORM|MULTI_READER(MULTI_READER): Will fail with first member reader failure
+2023-01-19 19:35:19|   0.1|  0.0|INFORM|Using Multi Reader with keyword `MULTI_READER' to read multiple datasets
+2023-01-19 19:35:19|   0.1|  0.0|INFORM|Using MultiWriter with keyword `MULTI_WRITER' to output data (ID_ATTRIBUTE is `multi_writer_id')
+2023-01-19 19:35:19|   0.1|  0.0|INFORM|Writer output will be ordered by value of multi_writer_id
+2023-01-19 19:35:19|   0.1|  0.0|INFORM|Loaded module 'LogCount_func' from file 'C:\Program Files\FME\plugins/LogCount_func.dll'
+2023-01-19 19:35:19|   0.1|  0.0|INFORM|FME API version of module 'LogCount_func' matches current internal version (4.0 20220615)
+2023-01-19 19:35:19|   0.1|  0.0|INFORM|Emptying factory pipeline
+2023-01-19 19:35:19|   0.1|  0.0|STATS |Router and Unexpected Input Remover (RoutingFactory): Tested 0 input feature(s), wrote 0 output feature(s): 0 matched merge filters, 0 were routed to output, 0 could not be routed.
+2023-01-19 19:35:19|   0.1|  0.0|STATS |Unwanted Router Input Nuker (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2023-01-19 19:35:19|   0.1|  0.0|STATS |dbo.Reads_MSSQL_ADO_1 Splitter (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2023-01-19 19:35:19|   0.1|  0.0|STATS |dbo.Reads_MSSQL_ADO_2 Splitter (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2023-01-19 19:35:19|   0.1|  0.0|STATS |dbo.Reads_MSSQL_ADO_4 Splitter (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2023-01-19 19:35:19|   0.1|  0.0|STATS |Restoring 15423 feature(s) from FME feature store file `C:\Users\fgodinho\AppData\Local\Temp\wb-cache-count_unique_plates-Akspew\Main_FeatureMerger_2 -1 59 fo 0 MERGED  0  9473d912c023d61d9d501aef0f8fc668a7d4f4cd.ffs'
+2023-01-19 19:35:19|   0.1|  0.0|INFORM|Creating writer for format: Microsoft Excel
+2023-01-19 19:35:19|   0.1|  0.0|INFORM|Trying to find a DYNAMIC plugin for writer named `XLSXW'
+2023-01-19 19:35:19|   0.1|  0.0|INFORM|Loaded module 'XLSXW' from file 'C:\Program Files\FME\plugins/xlsx.dll'
+2023-01-19 19:35:19|   0.1|  0.0|INFORM|FME API version of module 'xlsx' matches current internal version (4.0 20220615)
+2023-01-19 19:35:19|   0.1|  0.0|INFORM|FME Configuration: No destination coordinate system set
+2023-01-19 19:35:19|   0.1|  0.0|INFORM|Writer `XLSXW_1' of type `XLSXW' using group definition keyword `XLSXW_1_DEF'
+2023-01-19 19:35:19|   0.1|  0.0|INFORM|Excel Writer: Use Attribute Names As Column Positions is set to 'no' for sheet 'PLEASE MAN TEST' in dataset 'C:\!Capstone\autovu_reads.xlsx' 
+2023-01-19 19:35:19|   0.1|  0.0|INFORM|Excel Writer: Opening dataset 'C:\!Capstone\autovu_reads.xlsx'...
+2023-01-19 19:35:26|   7.4|  7.3|INFORM|Excel Writer: Reading existing workbook formatting. Workbook contains 1 fonts and 75 cell formats
+2023-01-19 19:35:26|   7.4|  0.0|INFORM|Excel Writer: Dropping sheet 'PLEASE MAN TEST'
+2023-01-19 19:35:26|   7.4|  0.0|INFORM|Excel Writer: Sheet 'PLEASE MAN TEST' has writer mode 'INSERT'
+2023-01-19 19:35:26|   7.4|  0.0|INFORM|Excel Writer: Sheet 'PLEASE MAN TEST' has Output field names set to 'yes'
+2023-01-19 19:35:26|   7.4|  0.0|INFORM|Excel Writer: Sheet 'PLEASE MAN TEST' will start writing to row '1' and column 'A' relative to its start location. Sheets have a starting location of row 1, column 1, named range starting locations can be specified
+2023-01-19 19:35:26|   7.5|  0.1|INFORM|Excel Writer: Outputting field names for sheet 'PLEASE MAN TEST'
+2023-01-19 19:35:26|   7.5|  0.0|INFORM|FeatureMerger_2_MERGED_-1_88_Player (RecorderFactory): Playing back feature 500
+2023-01-19 19:35:28|   9.2|  1.7|STATS |Destination Feature Type Routing Correlator (RoutingFactory): Tested 15423 input feature(s), wrote 15423 output feature(s): 0 matched merge filters, 15423 were routed to output, 0 could not be routed.
+2023-01-19 19:35:28|   9.2|  0.0|STATS |Final Output Nuker (TeeFactory): Cloned 0 input feature(s) into 0 output feature(s)
+2023-01-19 19:35:28|   9.2|  0.0|INFORM|Excel Writer: Saving changes to dataset 'C:\!Capstone\autovu_reads.xlsx'
+2023-01-19 19:35:28|   9.2|  0.0|INFORM|Excel Writer: Workbook contains 1 fonts and 76 cell formats after writing
+2023-01-19 19:35:35|  16.2|  7.0|INFORM|Excel Writer: Closing dataset 'C:\!Capstone\autovu_reads.xlsx'...
+2023-01-19 19:35:35|  16.2|  0.0|INFORM|=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2023-01-19 19:35:35|  16.2|  0.0|INFORM|Feature output statistics for `XLSXW' writer using keyword `XLSXW_1':
+2023-01-19 19:35:35|  16.2|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2023-01-19 19:35:35|  16.2|  0.0|STATS |                               Features Written
+2023-01-19 19:35:35|  16.2|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2023-01-19 19:35:35|  16.2|  0.0|STATS |PLEASE MAN TEST                                                          15423
+2023-01-19 19:35:35|  16.2|  0.0|STATS |==============================================================================
+2023-01-19 19:35:35|  16.2|  0.0|STATS |Total Features Written                                                   15423
+2023-01-19 19:35:35|  16.2|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2023-01-19 19:35:35|  16.2|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2023-01-19 19:35:35|  16.2|  0.0|STATS |                            Features Read Summary
+2023-01-19 19:35:35|  16.2|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2023-01-19 19:35:35|  16.2|  0.0|STATS |==============================================================================
+2023-01-19 19:35:35|  16.2|  0.0|STATS |Total Features Read                                                          0
+2023-01-19 19:35:35|  16.2|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2023-01-19 19:35:35|  16.2|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2023-01-19 19:35:35|  16.2|  0.0|STATS |                           Features Written Summary
+2023-01-19 19:35:35|  16.2|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2023-01-19 19:35:35|  16.2|  0.0|STATS |PLEASE MAN TEST                                                          15423
+2023-01-19 19:35:35|  16.2|  0.0|STATS |==============================================================================
+2023-01-19 19:35:35|  16.2|  0.0|STATS |Total Features Written                                                   15423
+2023-01-19 19:35:35|  16.2|  0.0|STATS |=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
+2023-01-19 19:35:35|  16.2|  0.0|WARN  |-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+2023-01-19 19:35:35|  16.2|  0.0|WARN  |-~                                                                             ~-
+2023-01-19 19:35:35|  16.2|  0.0|WARN  |-~    Feature caches have been recorded at every stage of the translation.     ~-
+2023-01-19 19:35:35|  16.2|  0.0|WARN  |-~                      To inspect the recorded features,                      ~-
+2023-01-19 19:35:35|  16.2|  0.0|WARN  |-~              click the feature cache icons next to the ports.               ~-
+2023-01-19 19:35:35|  16.2|  0.0|WARN  |-~                                                                             ~-
+2023-01-19 19:35:35|  16.2|  0.0|WARN  |-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-~-
+2023-01-19 19:35:35|  16.2|  0.0|INFORM|Translation was SUCCESSFUL with 7 warning(s) (15423 feature(s) output)
+2023-01-19 19:35:35|  16.2|  0.0|INFORM|FME Session Duration: 16.3 seconds. (CPU: 15.8s user, 0.4s system)
+2023-01-19 19:35:35|  16.2|  0.0|INFORM|END - ProcessID: 16540, peak process memory usage: 459924 kB, current process memory usage: 66200 kB
